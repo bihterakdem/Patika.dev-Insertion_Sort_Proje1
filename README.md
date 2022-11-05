@@ -1,5 +1,5 @@
 # Patika.dev-Insertion_Sort_Proje1
-https://www.patika.dev/tr
+https://www.patika.dev/tr  @Patika.dev
 
 -PROJE 1-
 
